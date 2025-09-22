@@ -1,1 +1,1 @@
-# RDI-Pred-Risk-Dynamics-Intention-Collaborative-Vehicle-Trajectory-Prediction-in-Emergency-Scenarios
+Our code will be uploaded and open-sourced after the paper is accepted
